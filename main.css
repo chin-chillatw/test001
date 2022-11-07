@@ -1,0 +1,19 @@
+
+header{
+    height: 250px;
+    outline:1px solid red;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fjapan.recipetineats.com%2Ftake-away-sushi-rolls%2F&psig=AOvVaw2W346x72knZxlhjrnN9rGk&ust=1667891878034000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjnqcnDm_sCFQAAAAAdAAAAABAE);
+    background-size: cover;
+    background-position: center center;
+}
+header h1{
+    margin:0;
+    padding-left:50px;
+    padding-top: 20px;
+}
+
+header h2{
+    margin:0;
+    padding-left:50px;
+    padding-top: 20px;
+}
